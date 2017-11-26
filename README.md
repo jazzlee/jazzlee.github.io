@@ -1,2 +1,1 @@
 # jazzlee.github.io
-# endeavor
